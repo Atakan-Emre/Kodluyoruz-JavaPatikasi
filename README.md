@@ -2,7 +2,7 @@
 
 
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java ile Backend Web Development Patikası Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet Java dosyası.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java ile Backend Web Development Patikası Eğitiminde oluşturduğumum repo. 
 
 
 ## Projeler
