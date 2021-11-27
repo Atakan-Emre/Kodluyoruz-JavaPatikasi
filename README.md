@@ -7,9 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java ile Backend Web Developmen
 
 ## Projeler
 
-*_Project1 (Dairenin Alanını Hesaplama)_
-*_Project2 (Hipotenüs Hesaplama)_
-*_Project3 (KDV Hesaplama)_
+* _Project1 (Dairenin Alanını Hesaplama)_
+* _Project2 (Hipotenüs Hesaplama)_
+* _Project3 (KDV Hesaplama)_
 *_Project4 (Ürün Hesaplama)_
 *_Project5 (Not Ortalaması Hesaplama)_
 *_Project6 (Taksimetre)_
