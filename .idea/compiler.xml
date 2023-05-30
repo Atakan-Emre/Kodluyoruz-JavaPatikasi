@@ -24,6 +24,7 @@
         <module name="Project20" />
         <module name="Project8" />
         <module name="Project18" />
+        <module name="Project29" />
         <module name="Project19" />
       </profile>
     </annotationProcessing>
